@@ -48,11 +48,11 @@
 
 }
 
-#subButtonPreClick {
+.subButtonPreClick {
     width: 208px;
 }
 
-#subButtonPostClick {
+.subButtonPostClick {
     width: 208px;
 }
 
