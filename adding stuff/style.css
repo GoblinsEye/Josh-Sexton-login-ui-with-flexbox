@@ -12,9 +12,9 @@
 
 .loginCard {
     min-width: 400px;
-    width: 600px;
+    width: 35%;
     min-height: 400px;
-    height: 600px;
+    height: 35%;
     background-color: rgb(113, 135, 143);
     border: lightslategray;
     border-style: solid;
