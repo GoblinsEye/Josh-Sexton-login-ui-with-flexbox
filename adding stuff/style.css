@@ -70,10 +70,12 @@ button:active {
     font-size: 20px;
     color:black;
     background-color: rgb(113, 135, 143);
-    border-color: white;
-    border-top: hidden;
+    /* border-color: white; */
+    /* border-top: hidden;
     border-left: hidden;
-    border-right: hidden;
+    border-right: hidden; */
+    border: none;
+    border-bottom: solid 1px white;
 }
 
 ::placeholder {
